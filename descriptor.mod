@@ -6,5 +6,5 @@ tags={
 	"Gameplay"
 }
 name="Larger Sectors"
-supported_version="3.*"
+supported_version="3.2.2"
 remote_file_id="2110157003"
